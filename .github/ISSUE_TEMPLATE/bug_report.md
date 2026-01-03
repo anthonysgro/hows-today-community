@@ -7,13 +7,6 @@ assignees: anthonysgro
 
 ---
 
----
-name: Report a Bug
-about: Tell us if something isn't working. (Low-energy friendly)
-title: "[BUG] "
-labels: bug
----
-
 ### 🛑 What happened?
 *Briefly describe what went wrong. One sentence is fine.*
 
