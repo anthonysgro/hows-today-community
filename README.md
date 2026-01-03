@@ -7,7 +7,7 @@ When energy is low, explaining "how you feel" can be an impossible task. This ap
 ---
 
 ## 🔗 Important Links
-* **[General Feedback Form](https://docs.google.com/forms/d/1yx1G_wP2XRJS-hdrmvqKIhw5wT6HB78-4GAZ4C7rAjc)** — Share your thoughts and help us shape the future of the app.
+* **[General Feedback Form](https://docs.google.com/forms/d/1yx1G_wP2XRJS-hdrmvqKIhw5wT6HB78-4GAZ4C7rAjc)** — For in-app users, but also if GitHub isn't your thing
 * **[Privacy Policy](https://docs.google.com/document/d/1IJnEYS2Gj4_IUyhFxY8iT44mLyezBKExVNFKEfVgiDQ)**
 * **[Terms of Service](https://docs.google.com/document/d/1UJFDBS_vfkR-ilRTmMx0cVmV0m9YyQfOXepcsvleBos)**
 
