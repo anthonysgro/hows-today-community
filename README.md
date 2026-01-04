@@ -5,6 +5,7 @@
 
 When energy is low, explaining "how you feel" can be an impossible task. This app replaces long texts and overwhelming questions with a **one-tap status signal**, making communication humane for those who cannot afford the cognitive load.
 
+https://howstoday.app
 ---
 
 ## 🔗 Important Links
