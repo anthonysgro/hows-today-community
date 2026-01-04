@@ -9,9 +9,10 @@ When energy is low, explaining "how you feel" can be an impossible task. This ap
 
 ## 🔗 Important Links
 * **[Public Website](https://howstoday.app)**
-* **[General Feedback Form](https://docs.google.com/forms/d/1yx1G_wP2XRJS-hdrmvqKIhw5wT6HB78-4GAZ4C7rAjc)** — For in-app users, but also if GitHub isn't your thing
+* **[Support](https://howstoday.app/support)**
 * **[Privacy Policy](https://howstoday.app/privacy)**
 * **[Terms of Service](https://howstoday.app/terms)**
+* **[General Feedback Form](https://docs.google.com/forms/d/1yx1G_wP2XRJS-hdrmvqKIhw5wT6HB78-4GAZ4C7rAjc)** — For in-app users, but also if GitHub isn't your thing
 
 ---
 
