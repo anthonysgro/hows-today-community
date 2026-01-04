@@ -1,4 +1,5 @@
 # How's Today? — Public Feedback & Issue Tracker
+<img width="4509" height="2362" alt="social_preview" src="https://github.com/user-attachments/assets/aa3fb537-8b74-476d-b83d-bf1240fc5f74" />
 
 **How’s Today?** is a lightweight communication tool designed for people living with chronic illnesses (such as Long COVID, ME/CFS, and POTS) and their caregivers.
 
