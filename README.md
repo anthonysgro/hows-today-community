@@ -5,13 +5,13 @@
 
 When energy is low, explaining "how you feel" can be an impossible task. This app replaces long texts and overwhelming questions with a **one-tap status signal**, making communication humane for those who cannot afford the cognitive load.
 
-https://howstoday.app
 ---
 
 ## 🔗 Important Links
+* **[Public Website](https://howstoday.app)**
 * **[General Feedback Form](https://docs.google.com/forms/d/1yx1G_wP2XRJS-hdrmvqKIhw5wT6HB78-4GAZ4C7rAjc)** — For in-app users, but also if GitHub isn't your thing
-* **[Privacy Policy](https://docs.google.com/document/d/1IJnEYS2Gj4_IUyhFxY8iT44mLyezBKExVNFKEfVgiDQ)**
-* **[Terms of Service](https://docs.google.com/document/d/1UJFDBS_vfkR-ilRTmMx0cVmV0m9YyQfOXepcsvleBos)**
+* **[Privacy Policy](https://howstoday.app/privacy)**
+* **[Terms of Service](https://howstoday.app/terms)**
 
 ---
 
